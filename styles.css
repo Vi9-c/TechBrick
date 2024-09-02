@@ -1,0 +1,312 @@
+body{
+    background-color: 010030;
+}
+.header{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    color: white;
+    margin-left: 10px;
+    font-family: Outfit;
+    font-size: 36px;
+    text-decoration: bold;
+}
+.class1{
+    width: 40%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.class1 li a{
+    text-decoration: none;
+    color: white;
+    font-family: Outfit;
+    font-size: 20px;
+}
+.eclipse{
+    position: absolute;
+    top: 0px;
+}
+.class2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.class2 #heading{
+    color: white;
+    font-family: Outfit;
+    font-size: 120px;
+    font-weight: 100;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.class2 #body{
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.class2 img{
+   position: absolute;
+   right: 0px;
+}
+.image{
+    margin-top: 10px;
+}
+button{
+    cursor: pointer;
+    width: 178px;
+    height: 60px;
+    border-radius: 70px;
+    margin-left: 15px;
+    color: white;
+    background-color: 8F8EDB;
+}
+.class3 #s{
+    background-color: transparent;
+}
+.class3{
+    margin-top: 85px;
+}
+.pic{
+    margin-top: 15px;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    align-self: center;
+    border-radius: 20px;
+    background-color: 5A50A6;
+}
+.pic #e{
+    margin-left: 40px;
+}
+.pic #f{
+    height: 40px;
+    display: flex;
+    align-self: center;
+}
+.pic #g{
+    height: 40px;
+    display: flex;
+    align-self: center;
+}
+.pic #h{
+    height: 40px;
+    display: flex;
+    align-self: center;
+    margin-right: 50px;
+}
+.mid{
+    color: white;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.class4{
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+.class5{
+    display: flex;
+    justify-content: space-between;
+}
+.letter #an{
+    margin-top: 90px;
+    font-size: 40px;
+    font-family: Outfit;
+    color: 9AD5D6;
+}
+.letter #but{
+    font-size: 85px;
+    font-family: Outfit;
+    color: white;
+    margin-bottom: 0px;
+}
+.letter #us{
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.letter{
+    margin-left: 220px;
+    margin-top: 100px;
+}
+.see{
+    margin-top: 100px;
+}
+.letter #butt{
+    width: 532px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.letter button{
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 4px;
+}
+.class6{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.wee{
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 800px;
+}
+.wee #and{
+    margin-top: 90px;
+    font-size: 40px;
+    font-family: Outfit;
+    color: 8F8EDB;
+}
+.wee #buta{
+    font-size: 80px;
+    font-family: Outfit;
+    color: white;
+    margin-bottom: 0px;
+}
+.wee #use{
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.sum{
+    margin-top: 70px;
+}
+.wee #butta{
+    width: 189px;
+    height: 68px;
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: 270A7A;
+}
+.class7 img{
+    width: 1300px;
+    margin-left: 15px;
+    align-self: center;
+}
+.class7{
+    margin-top: 160px;
+}
+.class7 p{
+    text-align: center;
+    color: white;
+}
+.class7 #test{
+    font-family: Outfit;
+    font-size: 40px;
+    text-decoration: solid;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+.class7 #red{
+    font-size: 96px;
+    font-family: Outfit;
+    text-decoration: solid;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.class8{
+    margin-top: 150px;
+    border-radius: 30px;
+    background-color: 8F8EDB;
+    background-image: linear-gradient(to bottom right 8F8EDB , 270A7A);
+}
+.class8 #mag{
+    color: white;
+    font-size: 96px;
+    font-family: Outfit;
+    text-decoration: solid;
+    text-align: center;
+    margin-top: 0px;
+}
+#ace{
+    font-family: Outfit;
+    font-size: 36px;
+    padding-top: 30px;
+    text-align: center;
+}
+.class8 button{
+    background-color: 000000;
+    width: 500px;
+    height: 90px;
+    margin-left: 32%;
+    margin-bottom: 30px;
+}
+footer{
+    height: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    background-color: 8F8EDB;
+    background-image: linear-gradient(to bottom right 8F8EDB , 270A7A);
+}
+.class9{
+    display: flex;
+    height: 500px;
+    justify-content: space-between;
+}
+.class9 #log2{
+    color: 270A7A;
+    font-size: 32px;
+}
+.class9 #pp{
+    font-size: 32px;
+    font-family: Outfit;
+    color: F0E5E5;
+    
+}
+.links a{
+    color: 8F8EDB;
+    font-size: 20px;
+    font-family: Roboto;
+    text-decoration: none;
+    text-align: center;
+}
+.class9 #ppp{
+    font-size: 32px;
+    font-family: Outfit;
+    color: F0E5E5;
+    margin-right: 60px;
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+.li4 #login{
+    background-color: 9AD5D6;
+    border-radius: 7px;
+}
+form{
+    margin-right: 30px;
+}
+form input{
+    width: 300px;
+    height: 30px;
+}
+form p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+    font-family: Righteous;
+    font-size: 20px;
+}
+.li0 {
+    margin-top: 70px;
+}
+.li2 {
+    margin-top: 70px;
+}.li3 {
+    margin-top: 70px;
+}
